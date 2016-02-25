@@ -4,7 +4,11 @@ class Quizapp
 file = File.read('Physics.json')
 question = JSON.parse(file)
 subject = {}
-basedir = '.'
+
+
+
+
+#basedir = '.'
 #alljson = Dir.glob("*.json")
 #puts alljson
 
@@ -65,7 +69,6 @@ while !start
     system ("cls")
     puts "Enter Numbers between 0 to 5"
   end
-
 end
 end
 
