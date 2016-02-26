@@ -29,11 +29,11 @@
     "E"   : "eeeeee",
     "ans" : "D" },
  "mali4" :{
-    "Question 5" :" gggggggggggg",
-    "A"   : "aaaaaaaa",
-    "B"   : "bbbbbbbb",
-    "C"   : "cccccccc",
-    "D"   : "ddddddddddd",
+    "Question 5" :" What is the distance of the earth from the moon ",
+    "A"   : "26km",
+    "B"   : "23km",
+    "C"   : "19km",
+    "D"   : "none of the above",
     "E"   : "eeeeee",
     "ans" : "D" }
 }
